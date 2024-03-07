@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1, h2, h3, li {
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
